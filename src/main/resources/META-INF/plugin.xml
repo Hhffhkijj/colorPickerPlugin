@@ -28,7 +28,7 @@
 
     </extensions>
     <actions>
-        <action id="org.example.colorpickerplugin.ColorPicker" class="org.example.colorpicker.ColorPicker"
+        <action id="ua.colorpickerplugin.ColorPicker" class="ua.ColorPicker"
                 text="ColorPicker">
             <keyboard-shortcut keymap="$default" first-keystroke="ctrl QUOTE"/>
             <add-to-group group-id="ToolsMenu"/>

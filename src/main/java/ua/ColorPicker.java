@@ -1,4 +1,4 @@
-package org.example.colorpicker;
+package ua;
 
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
