@@ -4,7 +4,7 @@ plugins {
     id("org.jetbrains.intellij") version "1.16.1"
 }
 
-group = "org.example"
+group = "ua"
 version = "1.0-SNAPSHOT"
 
 repositories {
